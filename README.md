@@ -1,3 +1,18 @@
+A Pet API is an Application Programming Interface which developers can use to retrieve data about pets and use it to enhance their own applications.
+
+
+![image](https://user-images.githubusercontent.com/33595080/185916984-4c950a52-32a6-4f94-a7bb-b7e556d6b950.png)
+
+![image](https://user-images.githubusercontent.com/33595080/185917057-ecd3be11-c3a3-4751-8b44-844b2bef5b1a.png)
+
+![image](https://user-images.githubusercontent.com/33595080/185919616-7e165a79-c5c4-4458-ab43-dd94169c217f.png)
+
+![image](https://user-images.githubusercontent.com/33595080/185919659-6e54bee0-86b4-4c4d-8aa6-f65b39d78e92.png)
+
+![image](https://user-images.githubusercontent.com/33595080/185919376-bfedb7e7-9995-4c10-829b-f60cc4a3ffdf.png)
+
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
